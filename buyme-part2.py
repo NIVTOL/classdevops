@@ -48,8 +48,8 @@ browser.find_element_by_class_name('btn-save').click() # שמירה
 #browser.find_element_by_id('ember1710').clear();
 #browser.find_element_by_id('ember1710').send_keys("danielg@gmail.com") # field of insert the mail
 browser.find_element_by_xpath('//*[@id="ember1215"]/div[5]/button').click()# תשלום
-time.sleep(3)
+time.sleep(2)
 browser.close()
 
-
+https://github.com/NIVTOL/classdevops.git
 
