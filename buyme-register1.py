@@ -19,6 +19,6 @@ browser.find_element_by_xpath ('//*[@id="ember980"]/label/i').click() # checkbox
 browser.find_element_by_xpath ('//*[@id="ember982"]/label/i').click() #uncheck the check box privacy
 browser.find_element_by_xpath ('//*[@id="ember971"]/button').click() # click submit
 
-time.sleep(110)
+time.sleep(1101)
 browser.close()
 
