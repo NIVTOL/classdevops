@@ -15,4 +15,4 @@ browser.find_element_by_xpath('//*[@id="ember674_chosen"]/div/ul/li[3]').click()
 
 browser.find_element_by_id('ember641_chosen').click() # choose ssאזור
 browser.find_element_by_xpath('//*[@id="ember641_chosen"]/div/ul/li[2]').click()
-browser.find_element_by_class_name('ui-btn').click()#test33
+browser.find_element_by_class_name('ui-btn').click()#test33666666
