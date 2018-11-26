@@ -51,5 +51,5 @@ browser.find_element_by_xpath('//*[@id="ember1215"]/div[5]/button').click()# ×ª×
 time.sleep(4)
 browser.close()
 
-https://github.com/NIVTOL/classdevops.git
+#https://github.com/NIVTOL/classdevops.git
 
